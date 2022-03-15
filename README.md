@@ -1,5 +1,6 @@
-# BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
+# BWAStore HTML Source Code
+
+Source Code ini hasil project slicing HTML pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
 
 ## Lisensi
 
